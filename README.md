@@ -9,3 +9,4 @@
 * keypad.py - https://programmers.co.kr/learn/courses/30/lessons/67256
 * max_traffic.py - https://programmers.co.kr/learn/courses/30/lessons/17676
 * crain.py - https://programmers.co.kr/learn/courses/30/lessons/64061
+* fail_rate.py - https://programmers.co.kr/learn/courses/30/lessons/42889
