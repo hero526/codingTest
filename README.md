@@ -8,3 +8,4 @@
 * digit_convergence.py - https://programmers.co.kr/learn/courses/30/lessons/81301
 * keypad.py - https://programmers.co.kr/learn/courses/30/lessons/67256
 * max_traffic.py - https://programmers.co.kr/learn/courses/30/lessons/17676
+* crain.py - https://programmers.co.kr/learn/courses/30/lessons/64061
