@@ -6,3 +6,5 @@
 * compress.py - https://programmers.co.kr/learn/courses/30/lessons/60057
 * open_chatroom.py - https://programmers.co.kr/learn/courses/30/lessons/42888
 * digit_convergence.py - https://programmers.co.kr/learn/courses/30/lessons/81301
+* keypad.py - https://programmers.co.kr/learn/courses/30/lessons/67256
+* max_traffic.py - https://programmers.co.kr/learn/courses/30/lessons/17676
