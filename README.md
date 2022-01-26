@@ -12,3 +12,4 @@
 * fail_rate.py - https://programmers.co.kr/learn/courses/30/lessons/42889
 * bracket.py - https://programmers.co.kr/learn/courses/30/lessons/60058
 * menu.py - https://programmers.co.kr/learn/courses/30/lessons/72411
+* jaccard.py - https://programmers.co.kr/learn/courses/30/lessons/17677
