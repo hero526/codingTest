@@ -13,3 +13,4 @@
 * bracket.py - https://programmers.co.kr/learn/courses/30/lessons/60058
 * menu.py - https://programmers.co.kr/learn/courses/30/lessons/72411
 * jaccard.py - https://programmers.co.kr/learn/courses/30/lessons/17677
+* place.py - https://programmers.co.kr/learn/courses/30/lessons/81302
